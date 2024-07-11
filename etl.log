@@ -1,0 +1,48 @@
+2024-07-08 10:40:09,682:INFO:Starting data extraction
+2024-07-08 10:42:18,869:INFO:Starting data extraction
+2024-07-08 11:06:21,721:INFO:Starting data extraction
+2024-07-08 11:06:58,409:INFO:Starting data extraction
+2024-07-08 11:07:12,066:INFO:Starting data extraction
+2024-07-09 19:27:56,519:INFO:NumExpr defaulting to 2 threads.
+2024-07-09 19:27:58,992:INFO:Logging is set up.
+2024-07-09 19:27:58,992:INFO:Starting the data extraction process.
+2024-07-09 19:28:00,960:INFO:Successfully fetched the webpage content.
+2024-07-09 19:28:01,261:INFO:Webpage content parsed successfully.
+2024-07-09 19:28:01,272:INFO:Data extraction completed successfully.
+2024-07-10 02:22:06,141:INFO:Logging is set up.
+2024-07-10 02:22:06,148:INFO:Starting the data extraction process.
+2024-07-10 02:22:08,141:INFO:Successfully fetched the webpage content.
+2024-07-10 02:22:08,938:INFO:Webpage content parsed successfully.
+2024-07-10 02:22:09,023:INFO:Data extraction completed successfully.
+2024-07-10 02:37:46,743:INFO:Starting the extraction process
+2024-07-10 02:37:49,381:INFO:Data extraction completed successfully
+2024-07-10 02:37:49,381:INFO:Starting data transformation
+2024-07-10 02:51:31,272:INFO:Starting the extraction process
+2024-07-10 02:51:33,155:INFO:Data extraction completed successfully
+2024-07-10 02:51:33,157:INFO:Starting data transformation
+2024-07-10 02:52:46,851:INFO:Starting the extraction process
+2024-07-10 02:52:48,412:INFO:Data extraction completed successfully
+2024-07-10 02:52:48,415:INFO:Starting data transformation
+2024-07-10 02:53:02,438:INFO:Starting the extraction process
+2024-07-10 02:53:03,996:INFO:Data extraction completed successfully
+2024-07-10 02:53:03,998:INFO:Starting data transformation
+2024-07-10 02:56:48,438:INFO:Starting the extraction process
+2024-07-10 02:56:54,039:INFO:Data extraction completed successfully
+2024-07-10 02:56:54,043:INFO:Starting data transformation
+2024-07-10 03:00:01,026:INFO:Starting the extraction process
+2024-07-10 03:00:02,472:INFO:Data extraction completed successfully
+2024-07-10 03:00:02,474:INFO:Starting data transformation
+2024-07-10 03:21:00,481:INFO:Starting the extraction process
+2024-07-10 03:21:02,296:INFO:Data extraction completed successfully
+2024-07-10 03:21:02,298:INFO:Starting data transformation
+2024-07-10 03:24:49,248:INFO:Starting the extraction process
+2024-07-10 03:24:50,614:INFO:Data extraction completed successfully
+2024-07-10 03:24:50,615:INFO:Starting data transformation
+2024-07-10 03:26:22,160:INFO:Starting the extraction process
+2024-07-10 03:26:22,721:INFO:Error during requests to https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-07-10 03:27:21,663:INFO:Starting the extraction process
+2024-07-10 03:27:23,763:INFO:Data extraction completed successfully
+2024-07-10 03:27:23,764:INFO:Starting data transformation
+2024-07-10 03:27:23,773:INFO:Data transformation completed
+2024-07-10 03:27:23,774:INFO:Saving data to C:\Users\CSC\Desktop\largest_banks.csv
+2024-07-10 03:27:23,788:INFO:Data saved to C:\Users\CSC\Desktop\largest_banks.csv
